@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koichiro-nishioka.github.io/sitemap.xml
